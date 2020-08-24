@@ -1,7 +1,7 @@
 # removeRepeatingNumList
 Goal is to write a program to remove all the repeting numbers in the myList variable. The code will store the numbers in a new list. A for methos is used append the numbers in lhe list. The not in operator is used to prevent adding repeated number from the list. 
 
-[Code:]()
+[Code:](https://github.com/Fran0616/removeRepeatingNumList/blob/master/removeRepeatingNUMList.py)
 =
 
 ```
