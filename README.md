@@ -17,7 +17,6 @@ for i in myList:
     if i not in newList:
         newList.append(i)
 print (newList)
-
 ```
 
 Output: 
