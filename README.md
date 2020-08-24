@@ -3,8 +3,8 @@ Goal is to write a program to remove all the repeting numbers in the myList vari
 
 The in and not in operators
 
-1. The in checks if a given element is currently stored somewhere inside the list - the operator returns TRUE in this case
-2. The not in checks if a given element is absent in a list - the operator returns TRUE in this case
+1. The **in** checks if a given element is currently stored somewhere inside the list - the operator returns TRUE in this case
+2. The **not in** checks if a given element is absent in a list - the operator returns TRUE in this case
 
 [Code:](https://github.com/Fran0616/removeRepeatingNumList/blob/master/removeRepeatingNUMList.py)
 =
